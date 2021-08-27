@@ -1,4 +1,0 @@
-This robot was built and programmed using an Arduino Uno R3. 
-It was designed to move through specified preprogrammed paths 
-(such as a circle or an M block) as well as the ability to follow 
-objects using an ultrasonic sensor and a servo motor.
